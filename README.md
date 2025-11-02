@@ -9,6 +9,6 @@ A simple load balancer written in rust to practice :)
 - Exchangable load balancing algorithm
 
 ## Todo
-- [] Reverse proxy server
-- [] Load balancer
-- [] Stress testing
+- [ ] Reverse proxy server
+- [ ] Load balancer
+- [ ] Stress testing
